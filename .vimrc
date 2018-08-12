@@ -5,5 +5,5 @@ set softtabstop=4
 set expandtab 
 set number
 set lcs=space:.
-set backgound=dark
+set background=dark
 set list
